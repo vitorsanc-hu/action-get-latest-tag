@@ -1,5 +1,5 @@
-name: Get Latest Tag
-description: Get the latest Git tag.
+name: Get Latest Git Tag
+description: Get the latest Git tag of the repository.
 author: Actions Ecosystem (forked by Vitor Santana)
 inputs:
   semver_only:
